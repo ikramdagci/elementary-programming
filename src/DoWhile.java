@@ -18,12 +18,6 @@ public class DoWhile {
         } while(a > b);
 
 
-        /*
-
-         Karesi, girilen sayıdan küçük olan en büyük sayı nedir?
-
-         */
-
     }
 
 }

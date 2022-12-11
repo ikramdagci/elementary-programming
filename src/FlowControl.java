@@ -7,7 +7,7 @@ public class FlowControl {
         /**
 
          while(<boolean_expression>) {
-            // do something
+            // repeated statements
          }
 
          */
@@ -21,11 +21,6 @@ public class FlowControl {
 
         System.out.println("Out of loop");
 
-
-
-
-
-        //
     }
 
 }
