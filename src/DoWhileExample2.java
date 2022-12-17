@@ -8,7 +8,7 @@ public class DoWhileExample2 {
 
         int number;
         do {
-            System.out.println("Lütfen negatif bir tamsayı giriniz");
+            System.out.println("Enter a negative number");
             number = scanner.nextInt();
         }while(number > -1);
 
