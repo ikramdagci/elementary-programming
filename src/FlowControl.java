@@ -12,7 +12,9 @@ public class FlowControl {
 
          */
 
-        int counter = 0;
+        int counter = 0, second = 1;
+
+        int a =0,b=1,c=2;
 
         while(counter < 10) {
             System.out.println("Hello world : " + counter);
